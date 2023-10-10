@@ -1,0 +1,78 @@
+.shapka-text{
+	font-family: Open Sans;
+	font-size: 16px;
+	margin-top: 15px;	
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: 550;
+}
+.main-header{
+	margin-top: 35px;
+}
+.header-btn{
+	background-color: #CAA892;
+	margin-top: 8px;
+	color:#fff;
+	border: none;	
+	font-size: 16px;
+	font-family: Open Sans;
+	margin-left: 160px;
+}
+.first-header span{
+	font-size: 20px;
+	font-family: Open Sans;
+	text-transform: uppercase;
+	color:#646464;
+}
+.first-header strong{
+	font-family: "Poppins", sans-serif;
+	font-size: 72px;
+}
+.feature-header{
+	line-height: 30px;
+	font-size: 18px;
+	width: 600px;
+	font-family: Open Sans;
+	margin-top: 30px;
+}
+.first-header{
+	margin-top: 220px;
+}
+.main-picture{
+	margin-top: 90px;
+}
+.main-btn{
+	background-color: #37806B;
+	color:#fff;
+	border:none;
+	font-size: 18px;
+	text-transform: uppercase;
+	padding-right: 25px;
+	padding-left: 2.5rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem; 
+	border-radius:15px 0px;
+	margin-top: 50px;
+	font-weight: 500;
+}
+/*.container{
+	border:2px solid red;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
